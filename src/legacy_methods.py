@@ -1,5 +1,6 @@
 # Реализация метода из ВКР по AR/VR (2025)
 
+
 def calculate_engagement(video_path):
     """
     Метод моделирования применения AR/VR-технологий
@@ -7,3 +8,4 @@ def calculate_engagement(video_path):
     """
     # Заглушка на основе данных из ВКР
     return 0.75
+    
