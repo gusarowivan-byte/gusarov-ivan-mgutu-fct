@@ -1,4 +1,3 @@
 def calculate_engagement(video_path):
-    """Method from VKR 2025 modeling."""
+    """Метод из ВКР 2025."""
     return 0.75
-    
