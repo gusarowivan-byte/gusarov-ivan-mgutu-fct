@@ -1,6 +1,6 @@
 def main():
-    """Точка входа в проект V-Avatar."""
-    print("V-Avatar проект запущен")
+    """Entry point."""
+    print("V-Avatar")
 
 
 if __name__ == "__main__":
